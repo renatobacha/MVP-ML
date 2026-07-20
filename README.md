@@ -1,4 +1,4 @@
-Previsão do Campeão da Copa do Mundo FIFA 2026 com Machine Learning
+## Previsão do Campeão da Copa do Mundo FIFA 2026 com Machine Learning
 
 Este projeto desenvolve um modelo preditivo para estimar o provável campeão da Copa do Mundo FIFA de 2026, utilizando um abordagem híbrida de Machine Learning com base em dados históricos de partidas.
 
