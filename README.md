@@ -23,7 +23,7 @@ Engenharia de Features: Criadas variáveis de desempenho acumulado (médias de g
 Divisão Treino/Teste: Utilizada uma divisão temporal, treinando com dados de Copas anteriores a 2014 e testando com a Copa de 2014 para evitar vazamento de dados.
 Pré-processamento: Pipeline com imputação de mediana (como segurança) e padronização das features numéricas.
 
-##Modelos Utilizados
+## Modelos Utilizados
 
 Baseline: Regressão Logística (Classificação) e Ridge (Regressão).
 Candidatos: Random Forest e Gradient Boosting (para ambos, classificação e regressão).
